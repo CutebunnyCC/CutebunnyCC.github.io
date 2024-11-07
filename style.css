@@ -1,6 +1,6 @@
 /* Basic styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Comfortaa;
     background-color: #f0f8ff;
     color: #333;
     margin: 0;
@@ -31,7 +31,7 @@ section {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 3em;
     color: #8b4513;
 }
 
@@ -42,11 +42,11 @@ footer {
 }
 
 footer h2 {
-    font-size: 1.5em;
+    font-size: 3em;
     color: #8b4513;
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Comfortaa;
     background-color: #f0f8ff;
     color: #333;
     margin: 0;
